@@ -7,5 +7,6 @@ The program allows transforming graphics using algorithms created for this purpo
 - displaying the histogram of the photo
 - thresholding
 - elimination of tails
+
 By default, the image "lena.jpg" is used in the program.
 Made in 2022
